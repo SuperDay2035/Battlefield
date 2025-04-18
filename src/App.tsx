@@ -1,6 +1,6 @@
 import './App.css'
 import Home from './Pages/Home/Home/Home'
-import MainBanner from './Pages/Home/MainBanner/MainBanner'
+// import MainBanner from './Pages/Home/MainBanner/MainBanner'
 import Navbar from './Pages/Home/Navbar/Navbar'
 
 function App() {
