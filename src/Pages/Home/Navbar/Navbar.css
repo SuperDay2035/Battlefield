@@ -4,3 +4,33 @@
     background-image: url("../../../assets/Images//banner/MainBanner.jpg");
     background-size: cover;
 }
+
+@media (max-width: 618px) {
+    ul {
+        gap: 10px;
+    }
+
+    ul li {
+        font-size: 12px;
+    }
+
+    img {
+        max-width: 100px;
+    }
+
+}
+
+@media (max-width: 500px) {
+    ul {}
+
+    ul li {
+
+        display: none;
+        font-size: 12px;
+    }
+
+    img {
+        max-width: 100px;
+    }
+
+}

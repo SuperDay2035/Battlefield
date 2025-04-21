@@ -1,0 +1,36 @@
+@media (max-width: 768px) {
+    .news-text {
+        font-size: 16px;
+    }
+
+    .news-header {
+        font-size: 22px;
+    }
+
+    .top-text {
+        font-size: 15px;
+    }
+
+    .top-score {
+        font-size: 18px;
+    }
+}
+
+@media (min-width: 768px) {
+    .news-text {
+        font-size: 18px;
+    }
+
+    .news-header {
+        font-size: 25px;
+    }
+
+}
+@media (max-width: 650px) {
+   .gallery img{
+      max-width: 270px;
+   }
+    .comunity-text{
+        font-size: 20px;
+    }
+}

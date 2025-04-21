@@ -1,0 +1,90 @@
+@media (max-width: 620px) {
+
+    .b-logo img {
+        max-width: 280px;
+    }
+
+    .main-text {
+
+        margin: 6px 0;
+    }
+
+    .banner {
+        height: 100vh;
+    }
+
+    .main-btns button {
+        font-size: 20px;
+        padding: 6px;
+    }
+
+}
+
+@media (min-width: 621px) {
+
+    .b-logo img {
+        max-width: 580px;
+    }
+
+    .main-text-w {
+        margin: 0 auto;
+    }
+
+    .main-text {
+        margin: 1px 0;
+        margin: 10px auto;
+
+    }
+
+}
+
+@media (min-width: 425px) {
+
+    .b-logo img {
+        max-width: 330px;
+    }
+
+    .main-text-w {
+        margin: 0 auto;
+    }
+
+    .main-text {
+        margin: 1px 0;
+        margin: 10px auto;
+    }
+
+}
+
+@media (min-width: 1024px) {
+
+    .b-logo img {
+        max-width: 500px;
+    }
+
+    .main-text-w {
+        margin: 0 auto;
+    }
+
+    .main-text {
+        margin: 1px 0;
+        margin: 10px auto;
+    }
+
+}
+
+@media (min-width: 991px) {
+
+    .b-logo img {
+        max-width: 750px;
+    }
+
+    .main-text-w {
+        margin: auto;
+    }
+
+    .main-text {
+        margin: 1px 0;
+        margin: 20px auto;
+    }
+
+}
